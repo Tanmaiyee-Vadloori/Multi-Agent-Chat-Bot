@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-langchain-community
-openai
-requests
-faiss-cpu
-duckduckgo-search
